@@ -7,8 +7,8 @@
 */
 
 /* To Do: include 지시어로 stdio.h 라이브러리 헤더 파일을 포함시키기 */
-
+#include <stdio.h>
 int main() {
 	/* To Do: printf 함수를 입력값 "Hello, world!"로 실행시키기 */
-	return 0;
+	return printf("Hello, world!");
 }
